@@ -1,12 +1,11 @@
 # About Me:
 
-## Overview
+## Summary
 
-This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and experiences in the field of software development.
+I am a front-end developer with a Master's degree in Computer Science and over 3 years of professional experience. Currently, I am working at Dassault Systems in Munich, Germany. My journey in software development has been filled with diverse experiences and continuous learning, and I am passionate about creating intuitive and impactful user interfaces.
 
 ## Features
 
-* About Me: I am a front-end developer with a Master's degree in Computer Science and over 3 years of professional experience. Currently, I am working at Dassault Systems in Munich, Germany. My journey in software development has been filled with diverse experiences and continuous learning, and I am passionate about creating intuitive and impactful user interfaces.
 * Skills: Front-end development, API, Agile, Scrum, Docker, CI/CD.
 * Experience: mostly front-end development in Dassault Systems, SUMM, THD (my university), Gport.
 * Contact Me: can be found at the bottom of my (website)[https://sepehrfazeli.github.io].
